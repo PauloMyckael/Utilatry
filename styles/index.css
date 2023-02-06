@@ -18,7 +18,16 @@ header > h2{
 }
 
 .content{
-    background-color: blue;
-    width: 980px;
-    height: 565px;
+    padding-left: 20px;
+}
+
+.box{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 25px;
+}
+
+.butSum{
+    padding: 10px;
+    border: #159615;
 }
